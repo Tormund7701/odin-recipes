@@ -1,4 +1,4 @@
-# odin-recipes
+#odin-recipes
 Captains log, star date today.
 I've... created this repo for a project... a project to sound like 
 William Shatner over text.
